@@ -40,7 +40,8 @@ If you wish to disclose, correct, suspend use, or delete your information, pleas
 e-mail: [appbrew.labs@gmail.com](mailto:appbrew.labs@gmail.com)
 In this case, please confirm your identity by presenting your driver's license or other methods specified by us. Please note that we will charge an administrative fee of 1,000 yen per case for information disclosure requests, regardless of whether disclosure is made or not.
 
-## Business operator's name: naoki iida
+## Business operator
+Business operator's name: naoki iida
 Business operator's address: Shibuya Dogenzaka Tokyu Building 2F-C, 1-10-8 Dogenzaka, Shibuya-ku, Tokyo
 
 *Established on March 9, 2023*
